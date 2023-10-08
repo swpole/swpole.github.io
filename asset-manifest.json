@@ -1,10 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.08c42817.css",
-    "main.js": "/static/js/main.367d1b7a.js",
+    "main.js": "/static/js/main.a29e7cec.js",
     "static/js/787.28be0925.chunk.js": "/static/js/787.28be0925.chunk.js",
     "static/media/a15Big.png": "/static/media/a15Big.3a39e7b1ced2e31dcc9f.png",
     "static/media/a15.png": "/static/media/a15.42fbbdfb5cf6a1144c65.png",
+    "static/media/EndlessRunner2.png": "/static/media/EndlessRunner2.b12db5be54868a7f4d60.png",
+    "static/media/EndlessRunner1.png": "/static/media/EndlessRunner1.59e998e2fd4bdfaf9587.png",
     "static/media/sokobanBig.png": "/static/media/sokobanBig.0de11d458a87fc44819d.png",
     "static/media/sokoban.png": "/static/media/sokoban.089b9a0bff8fe2c04f6d.png",
     "static/media/3d_pen_drawing_helper.jpg": "/static/media/3d_pen_drawing_helper.7de81101c4678e95dfc6.jpg",
@@ -22,11 +24,11 @@
     "static/media/twitter.svg": "/static/media/twitter.9ca7b7d7634476270a563192e3f69250.svg",
     "static/media/linkedIn.svg": "/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "main.08c42817.css.map": "/static/css/main.08c42817.css.map",
-    "main.367d1b7a.js.map": "/static/js/main.367d1b7a.js.map",
+    "main.a29e7cec.js.map": "/static/js/main.a29e7cec.js.map",
     "787.28be0925.chunk.js.map": "/static/js/787.28be0925.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08c42817.css",
-    "static/js/main.367d1b7a.js"
+    "static/js/main.a29e7cec.js"
   ]
 }
